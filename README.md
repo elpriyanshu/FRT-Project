@@ -27,7 +27,7 @@ Atelier is a website that helps hairdressers and salons promote their businesses
 ![image](https://user-images.githubusercontent.com/62836969/186464767-fca4bdaa-f011-4abc-b376-be593501a831.png)
 ![image](https://user-images.githubusercontent.com/62836969/186465270-89b01759-0053-4ffd-b6de-ad63d61291ff.png)
 
-### Imaages of the Bot
+### Imaages of the Chat Bot [AtelierBot]
 
 ![image](https://user-images.githubusercontent.com/62836969/186473855-381b8838-edf9-4076-b49c-8a639251cdb4.png)
 ![image](https://user-images.githubusercontent.com/62836969/186475387-12340ec2-0483-4eed-a8b4-740d1998b5bb.png)
