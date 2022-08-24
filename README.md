@@ -1,5 +1,5 @@
 # FRT-Project
-This repository hosts the final project of Future Ready Talent Internship, this project was created and hosted using microsoft azure. The project is an online lifestyle website featuring a Chat Bot.
+This repository hosts the final project of Future Ready Talent Internship, this project was created and hosted using microsoft azure [Azure QnA Maker, Azure Web Bot, and Azure Static Web App]. The project is an online lifestyle website featuring a Chat Bot.
 
 ### About Atelier
 Atelier is a website that helps hairdressers and salons promote their businesses online and take appointments from clients using chatbot (AtelierBot)
