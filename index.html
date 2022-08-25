@@ -9,7 +9,7 @@ Future Ready Talent Internship Project by Priyanshu Mishra
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    <meta name="keywords"
     content="Atelier Responsive web template, Bootstrap Web Templates, Android Compatible web template, Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
-  <title>Atelier |Future Ready Talent Internship</title>
+  <title>Atelier Fashion Category Bootstrap Responsive Web Template | Home :: W3Layouts </title>
   <link href="//fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;600;700&display=swap"
     rel="stylesheet">
 
@@ -44,9 +44,7 @@ Future Ready Talent Internship Project by Priyanshu Mishra
             <li class="nav-item">
               <a class="nav-link" href="services.html">Services</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="contact.html">Contact</a>
-            </li>
+
 
           </ul>
         </div>
@@ -86,6 +84,8 @@ Future Ready Talent Internship Project by Priyanshu Mishra
   </header>
   <!--/header-->
   <!-- main-slider -->
+  <a id="chatBotBtn" data-toggle="collapse" href="#chatBotBox" role="button" aria-expanded="false" aria-controls="chatBotBox" class="botAnime" style="cursor: pointer;" data-widget="control-sidebar" data-slide="true"> </a>
+  
   <section class="w3l-main-slider" id="home">
     <div class="companies20-content">
       <div class="owl-one owl-carousel owl-theme">
@@ -223,7 +223,7 @@ Future Ready Talent Internship Project by Priyanshu Mishra
               </div>
               <div class="info">
                 <p>01</p>
-                <h4><a href="#url">Skilled Barber</a></h4>
+                <h4><a href="#url">Skilled Barbers</a></h4>
               </div>
             </div>
             <p class="mt-3">Lorem ipsum dolor sit amet consectetur ipsum elit. Qui eligendi vitae sit.</p>
@@ -609,7 +609,6 @@ Future Ready Talent Internship Project by Priyanshu Mishra
             <ul class="d-flex text-lg-right">
               <li><a href="#careers"> Careers</a></li>
               <li class="mx-lg-5 mx-md-4 mx-3"><a href="#privacymy-lg-0 my-4">Privacy Policy</a></li>
-              <li><a href="contact.html">Contact us</a></li>
             </ul>
           </div>
 
@@ -767,32 +766,44 @@ Future Ready Talent Internship Project by Priyanshu Mishra
         }
       });
     });
+
+    var isChatBotBoxHidden=true;
+    $("#chatBotBtn").on("click", function () {
+      if (isChatBotBoxHidden == true) {
+        $("#chatBotBox").removeClass("d-nonee");
+        isChatBotBoxHidden=false;
+      } else {
+        $("#chatBotBox").addClass("d-nonee");
+        isChatBotBoxHidden=true;
+      }
+    });
   </script>
   <!--//MENU-JS-->
 
   <script src="assets/js/bootstrap.min.js"></script>
+  <script src='assets/robot/three.min.js'></script>
+	<script src='assets/robot/gsap.min.js'></script>
+	<script src='assets/robot/dat.gui.min.js'></script>
+	<script src='assets/robot/colladaLoader2.min.js'></script>
+	<script  src="assets/robot/script.js"></script>
+  
   <!--AtelierBot-->
-  <input type="checkbox" id="click">
-  <label for="click">
-    
-      <i class="fab fa-solid fa-envelope"></i>
-      <i class="fas fa-times"></i>
-  </label>
-  <div class="wrapper">
+  <div id="chatBotBox" class="collapse wrapper">
       <div class="head-text">
-          AtelierBot | Powered by Azure
+        AtelierBot | Powered by Azure
       </div>
       <div class="chat-box">
-          <div class="description-text">
-              
-          </div>
-          <form action="#">
-              <div class="field">
-                <iframe src="https://webchat.botframework.com/embed/AtelierQnA-Bot?s=WHevtZ9RQZs.EJAyd-jje0TF9P1vePRFgB30lxGYPK2os6cp9wr7mhs"  style="border:none; width: 334px; height: 300px;"></iframe>
-              </div>
-          </form>
+        <div class="description-text">
+            
+        </div>
+        <form action="#">
+            <div class="field">
+              <iframe src="https://webchat.botframework.com/embed/AtelierQnA-Bot?s=WHevtZ9RQZs.EJAyd-jje0TF9P1vePRFgB30lxGYPK2os6cp9wr7mhs"  style="border:none; width: 334px; height: 400px; margin-top: 10px"></iframe>
+            </div>
+        </form>
       </div>
-  </div>
+      
+  </div> 
 
 </body>
 
