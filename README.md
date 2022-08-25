@@ -18,22 +18,22 @@ Atelier is a website that helps hairdressers and salons promote their businesses
 
 ### Imaages of the Web Page
 
-![image](https://user-images.githubusercontent.com/62836969/186457047-55636eb0-1f73-441e-b6cc-55f017c18c2e.png)
-![image](https://user-images.githubusercontent.com/62836969/186457295-767d8c30-21cb-41c6-9019-dddc84a8f815.png)
-![image](https://user-images.githubusercontent.com/62836969/186457435-5fdbc557-6f30-4538-a73a-62703bae1bc2.png)
-![image](https://user-images.githubusercontent.com/62836969/186457535-5ce85916-592f-4842-93b0-af1dadac0375.png)
-![image](https://user-images.githubusercontent.com/62836969/186457641-81e4bef6-9a07-485c-81c5-be91c38e8acd.png)
-![image](https://user-images.githubusercontent.com/62836969/186464702-32790a51-7cb9-4aae-81f8-d36fd336f3b7.png)
-![image](https://user-images.githubusercontent.com/62836969/186464767-fca4bdaa-f011-4abc-b376-be593501a831.png)
-![image](https://user-images.githubusercontent.com/62836969/186465270-89b01759-0053-4ffd-b6de-ad63d61291ff.png)
+![image](https://user-images.githubusercontent.com/62836969/186691404-618468fd-b858-4c68-ae6c-e6c30cf3d520.png)
+![image](https://user-images.githubusercontent.com/62836969/186691533-36297570-a06a-472d-a9aa-273ba0e8df01.png)
+![image](https://user-images.githubusercontent.com/62836969/186691805-3c008e48-cd83-473b-a7a2-351ab980acd6.png)
+![image](https://user-images.githubusercontent.com/62836969/186691997-48f49cfc-9000-476b-910d-5004b77a0a50.png)
+![image](https://user-images.githubusercontent.com/62836969/186692129-f2436141-7568-453c-8860-813f3849adc1.png)
+![image](https://user-images.githubusercontent.com/62836969/186692195-d2542aee-e851-4898-b230-bae82ac505d8.png)
+![image](https://user-images.githubusercontent.com/62836969/186692316-94afd37b-ceb2-4ad0-9d2a-c58f43e58da8.png)
+![image](https://user-images.githubusercontent.com/62836969/186692408-85ca2762-8508-48e0-9ec5-ccbbabfd9a55.png)
+
 
 ### Imaages of the Chat Bot [AtelierBot]
 
-![image](https://user-images.githubusercontent.com/62836969/186473855-381b8838-edf9-4076-b49c-8a639251cdb4.png)
-![image](https://user-images.githubusercontent.com/62836969/186475387-12340ec2-0483-4eed-a8b4-740d1998b5bb.png)
-![image](https://user-images.githubusercontent.com/62836969/186475429-1367cd91-6fae-4848-bc1e-54641c8a649d.png)
-![image](https://user-images.githubusercontent.com/62836969/186475522-7311b8c4-a76c-4755-a85d-a5d1bbe12be4.png)
-![image](https://user-images.githubusercontent.com/62836969/186475581-656bf645-f8dd-4b73-aef8-6b453ce22bf2.png)
-![image](https://user-images.githubusercontent.com/62836969/186475635-acb3fad1-ddfc-4013-9453-6a22e554566e.png)
-![image](https://user-images.githubusercontent.com/62836969/186475703-f4fcf7aa-0573-44f9-abdb-ab53bf00018c.png)
-
+![image](https://user-images.githubusercontent.com/62836969/186692801-c499ec1d-3d59-4ff9-82ab-e11032683146.png)
+![image](https://user-images.githubusercontent.com/62836969/186692956-7dcbc209-2709-4845-a8bb-5a9e8d24358c.png)
+![image](https://user-images.githubusercontent.com/62836969/186693095-4c6c4d54-7b5e-40e7-b98f-1000d24d7fed.png)
+![image](https://user-images.githubusercontent.com/62836969/186693217-0adbe3fa-e9d4-4fe6-942a-b6b77b587815.png)
+![image](https://user-images.githubusercontent.com/62836969/186693317-66cd065b-d0c5-4eb6-83ff-1f3560bfec04.png)
+![image](https://user-images.githubusercontent.com/62836969/186693597-82c4ceb9-207d-40f7-9f7f-3ae833f3b3c0.png)
+![image](https://user-images.githubusercontent.com/62836969/186693663-bdfa5d39-c31d-4e89-a1b6-c1ac4335102e.png)
