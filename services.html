@@ -86,7 +86,7 @@ Future Ready Talent Internship Project by Priyanshu Mishra
   </header>
   <!--/header-->
   <!--/inner-page-->
-  <a id="chatBotBtn" data-toggle="collapse" href="#chatBotBox" role="button" aria-expanded="false" aria-controls="chatBotBox" class="botAnime" style="cursor: pointer;" data-widget="control-sidebar" data-slide="true"> </a>
+
   <div class="inner-banner">
   </div>
   <section class="w3l-breadcrumb">
@@ -595,40 +595,31 @@ Future Ready Talent Internship Project by Priyanshu Mishra
         }
       });
     });
-    
-    var isChatBotBoxHidden=true;
-    $("#chatBotBtn").on("click", function () {
-      if (isChatBotBoxHidden == true) {
-        $("#chatBotBox").removeClass("d-nonee");
-        isChatBotBoxHidden=false;
-      } else {
-        $("#chatBotBox").addClass("d-nonee");
-        isChatBotBoxHidden=true;
-      }
-    });
   </script>
   <!--//MENU-JS-->
 
   <script src="assets/js/bootstrap.min.js"></script>
-  <script src='assets/robot/three.min.js'></script>
-	<script src='assets/robot/gsap.min.js'></script>
-	<script src='assets/robot/dat.gui.min.js'></script>
-	<script src='assets/robot/colladaLoader2.min.js'></script>
-	<script  src="assets/robot/script.js"></script>
   <!--AtelierBot-->
-<div id="chatBotBox" class="collapse wrapper">
+  <input type="checkbox" id="click">
+  <label for="click">
+      <i class="fab fa-solid fa-envelope"></i>
+      <i class="fas fa-times"></i>
+  </label>
+  <div class="wrapper">
       <div class="head-text">
-        AtelierBot | Powered by Azure
+          AtelierBot | Powered by Azure
       </div>
       <div class="chat-box">
-        <div class="description-text">
-        </div>
-        <form action="#">
-            <div class="field">
-              <iframe src="https://webchat.botframework.com/embed/AtelierQnA-Bot?s=WHevtZ9RQZs.EJAyd-jje0TF9P1vePRFgB30lxGYPK2os6cp9wr7mhs"  style="border:none; width: 334px; height: 400px; margin-top: 10px"></iframe>
-            </div>
-        </form>
+          <div class="description-text">
+          </div>
+          <form action="#">
+              <div class="field">
+                <iframe src="https://webchat.botframework.com/embed/AtelierQnA-Bot?s=WHevtZ9RQZs.EJAyd-jje0TF9P1vePRFgB30lxGYPK2os6cp9wr7mhs"  style="border:none; width: 334px; height: 300px;"></iframe>
+              </div>
+          </form>
       </div>
-  </div> 
+  </div>
+
 </body>
+
 </html>
